@@ -28,3 +28,7 @@ End Result:
 <img width="732" alt="Screenshot 2024-01-18 at 6 31 52 PM" src="https://github.com/swillenson/Images-To-Lasercutting/assets/112603386/ba2d3810-439a-4cfc-954c-7c5a5a67f76f">
 
 
+## Next Steps
+
+I need to fix the background etching. When the foreground is removed from the background, the etches have a clear blank spot that represents where the foreground was segmented out. My goal is to figure out an appropriate infill so that there is a continuous flow in the background etching.
+
