@@ -11,6 +11,9 @@ First, take any picture that has a human in it. Run it through Im2LaserCut.py to
 
 Example:
 
+<img width="795" alt="Screenshot 2024-01-18 at 6 33 38 PM" src="https://github.com/swillenson/Images-To-Lasercutting/assets/112603386/3b0735e2-f4b1-48da-86c2-e5c0092bf16e">
+
+
 
 ## Print out SVG files
 The code will save your necessary files, open them up in your laser cutter's software and set the etch lines to be rasterized.
