@@ -18,7 +18,7 @@ The code will save .SVG files that look something like this:
 <img width="784" alt="Screenshot 2024-01-18 at 6 34 52 PM" src="https://github.com/swillenson/Images-To-Lasercutting/assets/112603386/e9ac1ec2-a413-4aec-8656-3bcc7d615625">
 
 
-## Print out SVG files
+## Print out .SVG files
 Now that you have your necessary files, open them up in your laser cutter's software and set the contour lines to be etched. There will be "Outline" files as well which need to be set to cut.
 
 Voila! Admire your result and the basic stand that I provided.
